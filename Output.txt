@@ -1,1 +1,272 @@
 
+2. Januar 45²+1² n.Chr:
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 50-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 66-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 26-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 42-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 36-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 52-te Sequenzzahl.
+[13:53:32, 600000000.00/min] 0-te Reihenfolgenzahl erreicht.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 40-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 56-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 38-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 54-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 32-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 48-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 30-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 46-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 44-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 1-fach auf die 60-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 744-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 760-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 766-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1146-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1178-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1122-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1202-te Sequenzzahl.
+[13:53:32, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1584-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1680-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1628-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1756-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1590-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1846-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1726-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 1844-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 2-fach auf die 2452-te Sequenzzahl.
+[13:53:33, 860832.14/min] 10000-te Reihenfolgenzahl erreicht.
+[13:53:33, hat 00001s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 11952-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 12446-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 12850-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 12600-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 14844-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 14962-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 15164-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 14934-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 15716-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 15414-te Sequenzzahl.
+[13:53:33, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 16516-te Sequenzzahl.
+[13:53:34, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 15208-te Sequenzzahl.
+[13:53:34, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 17230-te Sequenzzahl.
+[13:53:34, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 18938-te Sequenzzahl.
+[13:53:34, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 19642-te Sequenzzahl.
+[13:53:34, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 3-fach auf die 19392-te Sequenzzahl.
+[13:53:34, 733496.33/min] 20000-te Reihenfolgenzahl erreicht.
+[13:53:35, hat 00002s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 29100-te Sequenzzahl.
+[13:53:35, 607287.45/min] 30000-te Reihenfolgenzahl erreicht.
+[13:53:35, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 32094-te Sequenzzahl.
+[13:53:35, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 32568-te Sequenzzahl.
+[13:53:36, 489396.41/min] 40000-te Reihenfolgenzahl erreicht.
+[13:53:36, hat 00001s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 40906-te Sequenzzahl.
+[13:53:36, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 41806-te Sequenzzahl.
+[13:53:37, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 42764-te Sequenzzahl.
+[13:53:37, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 44762-te Sequenzzahl.
+[13:53:37, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 48566-te Sequenzzahl.
+[13:53:37, 438276.11/min] 50000-te Reihenfolgenzahl erreicht.
+[13:53:38, hat 00001s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 52834-te Sequenzzahl.
+[13:53:38, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 52944-te Sequenzzahl.
+[13:53:38, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 54500-te Sequenzzahl.
+[13:53:38, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 55300-te Sequenzzahl.
+[13:53:39, hat 00001s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 58616-te Sequenzzahl.
+[13:53:39, 381679.39/min] 60000-te Reihenfolgenzahl erreicht.
+[13:53:40, hat 00001s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 67414-te Sequenzzahl.
+[13:53:40, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 66130-te Sequenzzahl.
+[13:53:40, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 4-fach auf die 67840-te Sequenzzahl.
+[13:53:41, 347826.09/min] 70000-te Reihenfolgenzahl erreicht.
+[13:53:43, 295566.50/min] 80000-te Reihenfolgenzahl erreicht.
+[13:53:45, 259067.36/min] 90000-te Reihenfolgenzahl erreicht.
+[13:53:48, 213903.74/min] 100000-te Reihenfolgenzahl erreicht.
+[13:53:51, 190355.33/min] 110000-te Reihenfolgenzahl erreicht.
+[13:53:55, 172512.94/min] 120000-te Reihenfolgenzahl erreicht.
+[13:53:55, hat 00023s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 121048-te Sequenzzahl.
+[13:53:56, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 122874-te Sequenzzahl.
+[13:53:58, 153100.28/min] 130000-te Reihenfolgenzahl erreicht.
+[13:54:03, 140318.05/min] 140000-te Reihenfolgenzahl erreicht.
+[13:54:04, hat 00008s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 141064-te Sequenzzahl.
+[13:54:07, 132802.12/min] 150000-te Reihenfolgenzahl erreicht.
+[13:54:09, hat 00006s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 154004-te Sequenzzahl.
+[13:54:11, hat 00002s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 158636-te Sequenzzahl.
+[13:54:12, 121777.96/min] 160000-te Reihenfolgenzahl erreicht.
+[13:54:12, hat 00001s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 160238-te Sequenzzahl.
+[13:54:17, 114155.25/min] 170000-te Reihenfolgenzahl erreicht.
+[13:54:23, hat 00010s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 179140-te Sequenzzahl.
+[13:54:23, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 179362-te Sequenzzahl.
+[13:54:23, 106970.94/min] 180000-te Reihenfolgenzahl erreicht.
+[13:54:25, hat 00002s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 183010-te Sequenzzahl.
+[13:54:27, hat 00001s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 185414-te Sequenzzahl.
+[13:54:30, hat 00003s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 189582-te Sequenzzahl.
+[13:54:30, 82838.60/min] 190000-te Reihenfolgenzahl erreicht.
+[13:54:31, hat 00001s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 191292-te Sequenzzahl.
+[13:54:36, hat 00005s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 196970-te Sequenzzahl.
+[13:54:39, 71710.29/min] 200000-te Reihenfolgenzahl erreicht.
+[13:54:42, hat 00006s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 204336-te Sequenzzahl.
+[13:54:46, hat 00003s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 208704-te Sequenzzahl.
+[13:54:47, 74092.37/min] 210000-te Reihenfolgenzahl erreicht.
+[13:54:53, hat 00007s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 5-fach auf die 216838-te Sequenzzahl.
+[13:54:56, 67054.09/min] 220000-te Reihenfolgenzahl erreicht.
+[13:55:06, 59347.18/min] 230000-te Reihenfolgenzahl erreicht.
+[13:55:11, hat 00099s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 234456-te Sequenzzahl.
+[13:55:16, 59934.07/min] 240000-te Reihenfolgenzahl erreicht.
+[13:55:26, 56775.17/min] 250000-te Reihenfolgenzahl erreicht.
+[13:55:38, 51858.25/min] 260000-te Reihenfolgenzahl erreicht.
+[13:55:50, 50306.03/min] 270000-te Reihenfolgenzahl erreicht.
+[13:56:03, 46688.97/min] 280000-te Reihenfolgenzahl erreicht.
+[13:56:16, 43814.81/min] 290000-te Reihenfolgenzahl erreicht.
+[13:56:30, 42958.40/min] 300000-te Reihenfolgenzahl erreicht.
+[13:56:45, 41322.31/min] 310000-te Reihenfolgenzahl erreicht.
+[13:57:00, 38727.17/min] 320000-te Reihenfolgenzahl erreicht.
+[13:57:16, 37757.22/min] 330000-te Reihenfolgenzahl erreicht.
+[13:57:33, 36913.99/min] 340000-te Reihenfolgenzahl erreicht.
+[13:57:50, 33971.24/min] 350000-te Reihenfolgenzahl erreicht.
+[13:58:08, 32999.67/min] 360000-te Reihenfolgenzahl erreicht.
+[13:58:10, hat 00179s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 360372-te Sequenzzahl.
+[13:58:13, hat 00003s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 362782-te Sequenzzahl.
+[13:58:27, 32121.63/min] 370000-te Reihenfolgenzahl erreicht.
+[13:58:47, 29588.72/min] 380000-te Reihenfolgenzahl erreicht.
+[13:59:09, hat 00056s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 389632-te Sequenzzahl.
+[13:59:10, 26867.28/min] 390000-te Reihenfolgenzahl erreicht.
+[13:59:30, hat 00021s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 398490-te Sequenzzahl.
+[13:59:31, hat 00001s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 399638-te Sequenzzahl.
+[13:59:32, 27193.62/min] 400000-te Reihenfolgenzahl erreicht.
+[13:59:33, hat 00002s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 400892-te Sequenzzahl.
+[13:59:49, hat 00016s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 407660-te Sequenzzahl.
+[13:59:49, hat 00000s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 406996-te Sequenzzahl.
+[13:59:53, hat 00004s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 408886-te Sequenzzahl.
+[13:59:55, 25473.38/min] 410000-te Reihenfolgenzahl erreicht.
+[14:00:09, hat 00016s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 415242-te Sequenzzahl.
+[14:00:19, 25677.24/min] 420000-te Reihenfolgenzahl erreicht.
+[14:00:35, hat 00026s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 426912-te Sequenzzahl.
+[14:00:40, hat 00005s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 427336-te Sequenzzahl.
+[14:00:42, hat 00002s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 429726-te Sequenzzahl.
+[14:00:43, 24631.55/min] 430000-te Reihenfolgenzahl erreicht.
+[14:01:08, 23850.22/min] 440000-te Reihenfolgenzahl erreicht.
+[14:01:14, hat 00031s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 442002-te Sequenzzahl.
+[14:01:27, hat 00013s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 6-fach auf die 447186-te Sequenzzahl.
+[14:01:34, 23312.74/min] 450000-te Reihenfolgenzahl erreicht.
+[14:02:00, 22579.31/min] 460000-te Reihenfolgenzahl erreicht.
+[14:02:28, 21808.67/min] 470000-te Reihenfolgenzahl erreicht.
+[14:02:56, 21549.40/min] 480000-te Reihenfolgenzahl erreicht.
+[14:03:12, hat 00580s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 484730-te Sequenzzahl.
+[14:03:25, 20916.13/min] 490000-te Reihenfolgenzahl erreicht.
+[14:03:54, 20667.56/min] 500000-te Reihenfolgenzahl erreicht.
+[14:04:24, 19842.58/min] 510000-te Reihenfolgenzahl erreicht.
+[14:04:31, hat 00079s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 512230-te Sequenzzahl.
+[14:04:55, 19346.73/min] 520000-te Reihenfolgenzahl erreicht.
+[14:05:27, 18530.53/min] 530000-te Reihenfolgenzahl erreicht.
+[14:05:36, hat 00065s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 530760-te Sequenzzahl.
+[14:06:01, 17793.07/min] 540000-te Reihenfolgenzahl erreicht.
+[14:06:21, hat 00045s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 545444-te Sequenzzahl.
+[14:06:36, 17168.36/min] 550000-te Reihenfolgenzahl erreicht.
+[14:07:10, 17395.34/min] 560000-te Reihenfolgenzahl erreicht.
+[14:07:29, hat 00068s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 563514-te Sequenzzahl.
+[14:07:46, 16725.67/min] 570000-te Reihenfolgenzahl erreicht.
+[14:08:24, 16048.79/min] 580000-te Reihenfolgenzahl erreicht.
+[14:09:01, 15915.54/min] 590000-te Reihenfolgenzahl erreicht.
+[14:09:40, 15672.34/min] 600000-te Reihenfolgenzahl erreicht.
+[14:10:04, hat 00155s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 605716-te Sequenzzahl.
+[14:10:19, 15178.73/min] 610000-te Reihenfolgenzahl erreicht.
+[14:11:00, 14745.64/min] 620000-te Reihenfolgenzahl erreicht.
+[14:11:41, 14451.22/min] 630000-te Reihenfolgenzahl erreicht.
+[14:12:04, hat 00120s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 633208-te Sequenzzahl.
+[14:12:23, 14545.45/min] 640000-te Reihenfolgenzahl erreicht.
+[14:13:05, 14177.36/min] 650000-te Reihenfolgenzahl erreicht.
+[14:13:23, hat 00078s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 654226-te Sequenzzahl.
+[14:13:48, 13778.53/min] 660000-te Reihenfolgenzahl erreicht.
+[14:14:33, 13373.16/min] 670000-te Reihenfolgenzahl erreicht.
+[14:15:18, 13288.45/min] 680000-te Reihenfolgenzahl erreicht.
+[14:16:04, 13072.75/min] 690000-te Reihenfolgenzahl erreicht.
+[14:16:52, 12632.38/min] 700000-te Reihenfolgenzahl erreicht.
+[14:17:30, hat 00247s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 708110-te Sequenzzahl.
+[14:17:32, hat 00002s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 708812-te Sequenzzahl.
+[14:17:40, 12553.88/min] 710000-te Reihenfolgenzahl erreicht.
+[14:17:49, hat 00017s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 711986-te Sequenzzahl.
+[14:18:14, hat 01481s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 716100-te Sequenzzahl.
+[14:18:15, hat 00027s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 717516-te Sequenzzahl.
+[14:18:29, 12154.61/min] 720000-te Reihenfolgenzahl erreicht.
+[14:18:46, hat 00031s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 722966-te Sequenzzahl.
+[14:19:19, 12016.58/min] 730000-te Reihenfolgenzahl erreicht.
+[14:20:10, 11681.79/min] 740000-te Reihenfolgenzahl erreicht.
+[14:20:30, hat 00104s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 743856-te Sequenzzahl.
+[14:20:33, hat 00003s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 744414-te Sequenzzahl.
+[14:21:02, 11512.12/min] 750000-te Reihenfolgenzahl erreicht.
+[14:21:57, 10897.80/min] 760000-te Reihenfolgenzahl erreicht.
+[14:22:56, 10242.93/min] 770000-te Reihenfolgenzahl erreicht.
+[14:23:55, 10223.90/min] 780000-te Reihenfolgenzahl erreicht.
+[14:24:54, 10048.06/min] 790000-te Reihenfolgenzahl erreicht.
+[14:25:01, hat 00268s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 7-fach auf die 791008-te Sequenzzahl.
+[14:25:54, 9994.84/min] 800000-te Reihenfolgenzahl erreicht.
+[14:26:56, 9699.48/min] 810000-te Reihenfolgenzahl erreicht.
+[14:27:59, 9550.49/min] 820000-te Reihenfolgenzahl erreicht.
+[14:29:03, 9381.74/min] 830000-te Reihenfolgenzahl erreicht.
+[14:30:09, 9162.40/min] 840000-te Reihenfolgenzahl erreicht.
+[14:31:15, 9054.69/min] 850000-te Reihenfolgenzahl erreicht.
+[14:32:15, hat 00841s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 854970-te Sequenzzahl.
+[14:32:23, 8753.88/min] 860000-te Reihenfolgenzahl erreicht.
+[14:33:33, 8667.64/min] 870000-te Reihenfolgenzahl erreicht.
+[14:34:43, 8467.28/min] 880000-te Reihenfolgenzahl erreicht.
+[14:35:56, 8291.30/min] 890000-te Reihenfolgenzahl erreicht.
+[14:37:10, 8108.98/min] 900000-te Reihenfolgenzahl erreicht.
+[14:38:26, 7913.90/min] 910000-te Reihenfolgenzahl erreicht.
+[14:39:41, 7976.92/min] 920000-te Reihenfolgenzahl erreicht.
+[14:39:45, hat 00450s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 919956-te Sequenzzahl.
+[14:40:58, 7764.08/min] 930000-te Reihenfolgenzahl erreicht.
+[14:42:17, 7653.26/min] 940000-te Reihenfolgenzahl erreicht.
+[14:43:34, 7755.55/min] 950000-te Reihenfolgenzahl erreicht.
+[14:44:52, 7644.77/min] 960000-te Reihenfolgenzahl erreicht.
+[14:46:12, 7567.25/min] 970000-te Reihenfolgenzahl erreicht.
+[14:46:18, hat 00393s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 971452-te Sequenzzahl.
+[14:47:32, 7437.52/min] 980000-te Reihenfolgenzahl erreicht.
+[14:48:01, hat 00102s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 983810-te Sequenzzahl.
+[14:48:13, hat 00013s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 978858-te Sequenzzahl.
+[14:48:53, 7401.10/min] 990000-te Reihenfolgenzahl erreicht.
+[14:49:02, hat 00049s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 991628-te Sequenzzahl.
+[14:50:18, 7073.30/min] 1000000-te Reihenfolgenzahl erreicht.
+[14:51:17, hat 00135s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 1006430-te Sequenzzahl.
+[14:51:44, 7021.73/min] 1010000-te Reihenfolgenzahl erreicht.
+[14:53:10, 6987.06/min] 1020000-te Reihenfolgenzahl erreicht.
+[14:54:36, 6923.77/min] 1030000-te Reihenfolgenzahl erreicht.
+[14:55:38, hat 00261s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 1032600-te Sequenzzahl.
+[14:56:06, 6699.94/min] 1040000-te Reihenfolgenzahl erreicht.
+[14:57:38, 6539.65/min] 1050000-te Reihenfolgenzahl erreicht.
+[14:57:48, hat 00129s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 1046872-te Sequenzzahl.
+[14:59:09, 6558.67/min] 1060000-te Reihenfolgenzahl erreicht.
+[15:00:43, 6361.32/min] 1070000-te Reihenfolgenzahl erreicht.
+[15:02:18, 6334.26/min] 1080000-te Reihenfolgenzahl erreicht.
+[15:03:55, 6189.40/min] 1090000-te Reihenfolgenzahl erreicht.
+[15:05:34, 6062.20/min] 1100000-te Reihenfolgenzahl erreicht.
+[15:07:14, 6007.63/min] 1110000-te Reihenfolgenzahl erreicht.
+[15:08:17, hat 00630s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 1114710-te Sequenzzahl.
+[15:08:54, 5978.95/min] 1120000-te Reihenfolgenzahl erreicht.
+[15:10:35, 5980.27/min] 1130000-te Reihenfolgenzahl erreicht.
+[15:11:19, hat 00181s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 1133950-te Sequenzzahl.
+[15:12:12, hat 00053s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 1137814-te Sequenzzahl.
+[15:12:17, 5828.35/min] 1140000-te Reihenfolgenzahl erreicht.
+[15:14:02, 5737.34/min] 1150000-te Reihenfolgenzahl erreicht.
+[15:15:48, 5661.45/min] 1160000-te Reihenfolgenzahl erreicht.
+[15:17:34, 5637.72/min] 1170000-te Reihenfolgenzahl erreicht.
+[15:19:22, 5602.71/min] 1180000-te Reihenfolgenzahl erreicht.
+[15:21:10, 5508.18/min] 1190000-te Reihenfolgenzahl erreicht.
+[15:23:00, 5490.33/min] 1200000-te Reihenfolgenzahl erreicht.
+[15:24:51, 5401.66/min] 1210000-te Reihenfolgenzahl erreicht.
+[15:26:43, 5344.74/min] 1220000-te Reihenfolgenzahl erreicht.
+[15:27:38, hat 00927s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 1224944-te Sequenzzahl.
+[15:28:36, 5315.38/min] 1230000-te Reihenfolgenzahl erreicht.
+[15:29:28, hat 00109s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 1234546-te Sequenzzahl.
+[15:30:32, 5176.12/min] 1240000-te Reihenfolgenzahl erreicht.
+[15:32:29, 5135.62/min] 1250000-te Reihenfolgenzahl erreicht.
+[15:34:24, 5193.46/min] 1260000-te Reihenfolgenzahl erreicht.
+[15:36:19, 5236.38/min] 1270000-te Reihenfolgenzahl erreicht.
+[15:38:17, 5087.29/min] 1280000-te Reihenfolgenzahl erreicht.
+[15:40:14, 5099.48/min] 1290000-te Reihenfolgenzahl erreicht.
+[15:42:13, 5050.08/min] 1300000-te Reihenfolgenzahl erreicht.
+[15:44:15, 4927.52/min] 1310000-te Reihenfolgenzahl erreicht.
+[15:46:16, 4964.91/min] 1320000-te Reihenfolgenzahl erreicht.
+[15:46:48, hat 06796s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 9-fach auf die 1322828-te Sequenzzahl.
+[15:47:31, hat 01083s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 8-fach auf die 1326080-te Sequenzzahl.
+[15:48:20, 4841.44/min] 1330000-te Reihenfolgenzahl erreicht.
+[15:50:25, 4776.23/min] 1340000-te Reihenfolgenzahl erreicht.
+[15:52:32, 4745.03/min] 1350000-te Reihenfolgenzahl erreicht.
+[15:54:39, 4715.39/min] 1360000-te Reihenfolgenzahl erreicht.
+[15:54:48, hat 00480s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 9-fach auf die 1354552-te Sequenzzahl.
+[15:56:47, 4678.51/min] 1370000-te Reihenfolgenzahl erreicht.
+[15:57:03, hat 00134s gedauert] "Snoezelraum, PJS, Mainz 55122" weint 9-fach auf die 1359002-te Sequenzzahl.
+[15:59:53, 3239.71/min] 1380000-te Reihenfolgenzahl erreicht.
